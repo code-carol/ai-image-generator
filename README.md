@@ -6,6 +6,8 @@ A simple AI image generator using OpenAI API DALL-E
 
 ## 🎯 Features
 
+- Add input and return 4 images
+
 ### Future Features
 
 - Add tests with `vitest` and `cypress`
