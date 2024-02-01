@@ -1,4 +1,4 @@
-# 🤖 AI Image Generator
+# 🤖 AI Image Generator Wall-e
 
 A simple AI image generator using OpenAI API DALL-E
 
@@ -30,3 +30,5 @@ A simple AI image generator using OpenAI API DALL-E
 ## 📚 Lessons Learned
 
 ## ✨ Inspiration
+
+[Code with Ania Kubów](https://www.youtube.com/watch?v=l3TLQuwr4G0)
