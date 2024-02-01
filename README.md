@@ -34,3 +34,4 @@ A simple AI image generator using OpenAI API DALL-E
 ## ✨ Inspiration
 
 [Code with Ania Kubów](https://www.youtube.com/watch?v=l3TLQuwr4G0)
+[Wall-e](https://codepen.io/sdras/pen/YZBGNp)
