@@ -29,6 +29,8 @@ A simple AI image generator using OpenAI API DALL-E
 
 ## 📚 Lessons Learned
 
+- How to access the variables from the env file with Vite and TS [(article link)](https://dev.to/whchi/how-to-use-processenv-in-vite-ho9)
+
 ## ✨ Inspiration
 
 [Code with Ania Kubów](https://www.youtube.com/watch?v=l3TLQuwr4G0)
